@@ -95,3 +95,4 @@ The main branch is now using **.NET 9**. This corresponds with NuGet package ver
 The official documentation for this template, including Getting Started steps, Migration Guides, and Architectural Decisions, can be found at [Ardalis Clean Architecture Docs](https://ardalis.github.io/CleanArchitecture).
 
 If you are upgrading from an older version, please be sure to review our [Migration Guides](https://ardalis.github.io/CleanArchitecture/migration-guides/) on the new documentation site!
+Jorge Castillo
